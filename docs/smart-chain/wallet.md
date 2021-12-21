@@ -35,3 +35,4 @@ If you want to be able to receive BNB and other supported tokens on the Binance 
 |14|[BitKeep](./wallet/bitkeep.md) (App&Chrome)|<https://bitkeep.com>|No|
 |15|[Coin98 Wallet](./wallet/coin98wallet.md) (App Web Extension)|<https://coin98.com/wallet>|No|
 |16|[Guarda Wallet](https://guarda.com/coins/binance-coin-wallet/)|<https://guarda.com/coins/binance-coin-wallet/>|No|
+|17|[Coin Wallet](./wallet/coinwallet.md)|<https://coin.space>|No|
